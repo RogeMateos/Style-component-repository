@@ -1,2 +1,10 @@
-# Style component repository
- This is a repository using  style component 
+# Huddle Landing Page (React & Styled Components)
+
+Project from my styled components crash course
+
+## Usage
+
+```
+npm install
+npm start
+```
